@@ -443,3 +443,8 @@ a:focus {
   height: 600px;
   margin-left: 100px;
 }
+
+.pdf_subtitle_paragraph {
+  margin-left: 45%;
+  font-size: 30px;
+}
